@@ -1,2 +1,2 @@
-# Intro_Programa-Python_UFCSPA
+# Intro_Python_UFCSPA
 Introdução à Programação de Computadores com Python
